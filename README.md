@@ -22,9 +22,3 @@ Gangster Legends v2 is a open source PBBG game engine written in PHP using a MyS
 5. The game should now be made with some sample data
 6. Register a new user account
 7. Open up phpMyAdmin and go to the `users` table and edit the `U_userLevel` from `1` to `2`
-
-# Example
-
-A demo can be found at http://demo.glscript.net/ 
-
-**After registering you will become an admin automatically, this is only on the demo site.**
